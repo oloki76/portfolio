@@ -104,7 +104,6 @@ const media = {
 
 export { deviceSizes, media };
 ```
-[![Image](https://github.com/user-attachments/assets/5af73d84-ed20-4c15-965a-32e158001a30)](url)
 <img width="100%" alt="반응형 네비게이션" src="https://user-images.githubusercontent.com/51189962/136144313-2a67d258-3ec1-4517-80fc-3f67b957dff5.gif" />
 
 - 네비게이션 메뉴의 경우 mobile(768px)을 기준으로 그 이상일 경우 상단바, 이하일 경우 햄버거메뉴로 변경
